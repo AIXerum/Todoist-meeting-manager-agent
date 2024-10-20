@@ -31,7 +31,7 @@ I built an AI-powered system to streamline project and task management in Todois
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/kaymen99/Todoist-meeting-manager-agent.git
+   git clone https://github.com/AIXerum/Todoist-meeting-manager-agent.git
    cd Todoist-meeting-manager-agent
    ```
 
@@ -76,7 +76,3 @@ Currently the project is still under development, the `get_transcript` function 
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
-
-## Contact
-
-If you have any questions or suggestions, feel free to contact me at `aymenMir10001@gmail.com`.
